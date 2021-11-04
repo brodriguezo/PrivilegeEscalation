@@ -1,4 +1,4 @@
-# Linux Privilege Escalation
+# Linux Privilege Escalation CheckList
 
 * [LPE-01 - Dirty Cow](https://dirtycow.ninja/)
 * [LPE-02 - SUID Executables](https://pentestlab.blog/2017/09/25/suid-executables/)
