@@ -1,0 +1,31 @@
+Windows Exploit Suggester
+
+This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. 
+It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
+
+https://github.com/AonCyberLabs/Windows-Exploit-Suggester
+
+Power-UP
+
+PowerUp aims to be a clearinghouse of common Windows privilege escalation vectors that rely on misconfigurations.
+
+https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc
+
+Windows Exploit Suggester New Gen
+
+WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, 
+including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 10, including their Windows Server counterparts, is supported.
+
+https://github.com/bitsadmin/wesng
+
+Windows / Linux Local Privilege Escalation Workshop
+
+The tool which covers all known (at the time) attack vectors of local user privilege escalation on both Linux and Windows operating systems.
+
+https://github.com/sagishahar/lpeworkshop
+
+Windows - Privilege Escalation (Payloads all the Things)
+
+Long list of tools to privilege escalation on Windows
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
