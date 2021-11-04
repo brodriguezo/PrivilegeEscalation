@@ -13,3 +13,11 @@ A guide to Linux Privilege Escalation
 [LinEnum](https://github.com/rebootuser/LinEnum)
 
 Linux Enumeration
+
+[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
+
+Linux enumeration tools for pentesting and CTFs
+
+[Dynamic linker tricks](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
+
+Using LD_PRELOAD to cheat, inject features and investigate programs.
